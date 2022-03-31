@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ETF Dashboard"
+excerpt: "View how BlackRock's ETFs Change Daily<br/><img src='/images/etf_dashboard.png.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This website was created to track how large money managers trade the underlying stocks in their ETFs. The site focuses on tracking BlackRock's ETF products. The website is updated daily at 11:30am EST and is free to use by anyone.
+
+Access the site here: [http://etfdashboard.ca/](http://etfdashboard.ca/).
+{: .btn}
