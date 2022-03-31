@@ -1,6 +1,6 @@
 ---
 title: "ETF Dashboard"
-excerpt: "View how BlackRock's ETFs Change Daily<br/><img src='/images/etf_dashboard.png.png'>"
+excerpt: "View how BlackRock's ETFs Change Daily<br/><img src='/images/etf_dashboard.png'>"
 collection: portfolio
 ---
 
