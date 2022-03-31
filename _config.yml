@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Statistics Undergraduate Student"
   location         : "Toronto, ON"
-  employer         :
+  employer         : "University of Toronto"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "anthony.rinaldi04@gmail.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "anthony-rinaldi"
-  orcid            : " https://orcid.org/0000-0003-3686-7485"
+  orcid            : "https://orcid.org/0000-0003-3686-7485"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
