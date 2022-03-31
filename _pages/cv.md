@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Statistics, Western Univeristy, 2022
+* HBA in Busienss, Ivey Business School, 2022
+* M.Sc. CS in Applied Computing, University of Toronto, 2023 (expected)
 
 Work experience
 ======
