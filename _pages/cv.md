@@ -34,7 +34,7 @@ Work experience
   * Automated over 10 recurring tasks; creating a pipeline that compiled and distributed all necessary reports
   * Scrutinized current pricing structure of FX clients and proposed recommendations aimed at increasing revenue to management; the accepted proposals resulted in an expected annual $2M increase in revenue
 
-* Sales & TRading Associate (Prime Brokerage), [TD Securities](https://www.tdsecurities.com/ca/en/home-page){:target="\_blank"}, Summer 2020
+* Sales & Trading Associate (Prime Brokerage), [TD Securities](https://www.tdsecurities.com/ca/en/home-page){:target="\_blank"}, Summer 2020
   * Implemented a program to detect inconsistencies between the firm’s transaction records and counterparty records; determining the true value of firm exposure and reducing overnight risk
   * Created a program to request returns of fixed income loans in which the firm no longer had capacity to supply; automating a previously manual task taking over one hour daily
   * Assisted in designing a collateral delivery optimizer; better allocating collateral based on cost and eligibility
