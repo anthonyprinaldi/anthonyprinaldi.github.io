@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF version here](http://anthonyprinaldi.github.io/files/Anthony_Rinaldi_CV.pdf){:target="\_blank" .btn}
+
 Education
 ======
 ---
-* B.Sc. in Statistics, Western Univeristy, 2022
-* HBA in Busienss, Ivey Business School, 2022
+* B.Sc. in Statistics, Western University, 2022
+* HBA in Business, Ivey Business School, 2022
 * M.Sc. CS in Applied Computing, University of Toronto, 2023 (expected)
 
 Research
@@ -22,7 +24,7 @@ Research
 * A Transformer Based Classification System for Volcanic Seismic Signals, [Western University DSAS](https://www.uwo.ca/stats/){:target="\_blank"}, 2021-2022
   * Considered the use of the novel NLP technique self-attention for predicting volcanic event types from raw seismic signals
   * Designed a DNN architecture that enables superior signal classification compared to traditional approaches
-  * Utilized different neural network layers such as convolutional, residualconvolutional, and long short-term memory
+  * Utilized different neural network layers such as convolutional, residual convolutional, and long short-term memory
   * Became versed with the Keras deep learning Python package
 
 Work experience
@@ -50,12 +52,24 @@ Work experience
 Skills
 ======
 ---
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English (native)
+  * Italian (conversational)
+* Programming
+  * Python
+  * R
+  * SQL
+  * VBA
+  * MATLAB
+  * Node.js
+  * Java
+* Software
+  * Microsoft Office Suite
+  * Git
+  * Confluence
+  * Jira
+  * Tableau
+  * Bloomberg Terminal
 
 Publications
 ======
