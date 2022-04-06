@@ -3,6 +3,7 @@ title: "A Transformer-Based Classification System for Volcanic Seismic Signals"
 collection: publications
 permalink: /publication/volcanictransformer
 excerpt: "This paper is about applying the idea of multi-headed self-attention to the volcanic event classification problem."
+date: 2022-04-01
 venue: "Unpublished"
 paperurl: "http://anthonyprinaldi.github.io/files/VolcanicTransformer.pdf"
 ---
