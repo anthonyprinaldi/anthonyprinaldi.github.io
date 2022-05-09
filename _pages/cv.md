@@ -30,6 +30,8 @@ Research
 Work experience
 ======
 ---
+* Undergraduate Student Researcher, [Western University DSAS](https://www.uwo.ca/stats/){:target="\_blank"}, Summer 2022
+
 * Sales & Trading Associate (FX Data Analytics and Innovation), [TD Securities](https://www.tdsecurities.com/ca/en/home-page){:target="\_blank"}, Summer 2021
   * Developed a Python module to automatically publish Tableau Dashboards used in evaluating an FX auto-quoting algorithm; providing the business with a daily overview of client trends and a detailed analysis of trades
   * Created a program to scrape information from the web and compile a report otherwise done manually; reducing human capital and creating efficiencies
@@ -49,6 +51,12 @@ Work experience
   * Improved the City's Annual Financial Report through analysis of key financial indicators for enhanced recognition of financial position; supported management’s goal of generating a concise, yet detailed report
   * Optimized the process of analyzing customer accounts to identify erroneous transactions and respective cause; made procedure more efficient and saved time as a result of implemented suggestions
   
+Awards
+======
+---
+* Vector Scholarship in Artificial Intelligence Recipient, 2022-23
+* Scotiabank HBA1 Award, 2019
+
 Skills
 ======
 ---
