@@ -5,7 +5,6 @@ type: "Presentation"
 permalink: /talks/cssc_presentation
 venue: "Virtual"
 date: 2022-06-28
-location: "Virtual"
 ---
 
 Selected as one of few students to present an academic poster at the Annual Canadian Statistics Student Conference.
