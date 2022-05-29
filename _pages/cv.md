@@ -57,6 +57,32 @@ Awards
 * Vector Scholarship in Artificial Intelligence Recipient, 2022-23
 * Scotiabank HBA1 Award, 2019
 
+<!-- Publications
+======
+---
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+Talks
+======
+---
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+<!-- Teaching
+======
+---
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+---
+* Currently signed in to 43 different slack teams -->
+
 Skills
 ======
 ---
@@ -79,28 +105,3 @@ Skills
   * Tableau
   * Bloomberg Terminal
 
-<!-- Publications
-======
----
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
----
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
----
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
----
-* Currently signed in to 43 different slack teams -->
