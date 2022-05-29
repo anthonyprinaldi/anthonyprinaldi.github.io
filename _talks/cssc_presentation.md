@@ -10,6 +10,6 @@ location: "Virtual"
 
 Selected as one of few students to present an academic poster at the Annual Canadian Statistics Student Conference.
 
-I presented the work completed during my undergraduate thesis and received a score of XXXX.
+I presented the work completed during my undergraduate thesis and was awarded **second place** for all undergraduate poster presentations.
 
 Download the poster [here](http://anthonyprinaldi.github.io/files/SSC_Poster_Rinaldi.pdf){:target="\_blank" .btn}
