@@ -15,9 +15,9 @@ redirect_from:
 
 ---
 
+- M.Sc. CS in Applied Computing, University of Toronto, 2023 (expected)
 - B.Sc. in Statistics, Western University, 2022
 - HBA in Business, Ivey Business School, 2022
-- M.Sc. CS in Applied Computing, University of Toronto, 2023 (expected)
 
 # Awards
 
