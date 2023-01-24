@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version here](http://anthonyprinaldi.github.io/files/Anthony_Rinaldi_CV.pdf){:target="\_blank" .btn}
+<!-- [Download PDF version here](http://anthonyprinaldi.github.io/files/Anthony_Rinaldi_CV.pdf){:target="\_blank" .btn} -->
 
 # Education
 
@@ -40,7 +40,7 @@ redirect_from:
 # Work experience
 
 ---
-
+- Automation Intern, [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/){:target="\_blank"}, Sep. 2022 - Present
 - Undergraduate Student Researcher, [Western University DSAS](https://www.uwo.ca/stats/){:target="\_blank"}, Summer 2022
 - Sales & Trading Associate (FX Data Analytics and Innovation), [TD Securities](https://www.tdsecurities.com/ca/en/home-page){:target="\_blank"}, Summer 2021
   - Developed a Python module to automatically publish Tableau Dashboards used in evaluating an FX auto-quoting algorithm; providing the business with a daily overview of client trends and a detailed analysis of trades
