@@ -16,8 +16,11 @@ redirect_from:
 ---
 
 - M.Sc. CS in Applied Computing, University of Toronto, 2023 (expected)
+  - GPA: 4.0/4.0
 - B.Sc. in Statistics, Western University, 2022
+  - GPA: 96/100
 - HBA in Business, Ivey Business School, 2022
+  - GPA: 84/100
 
 # Awards
 
@@ -31,7 +34,12 @@ redirect_from:
 
 ---
 
-- A Transformer Based Classification System for Volcanic Seismic Signals, [Western University DSAS](https://www.uwo.ca/stats/){:target="\_blank"}, 2021-2022
+- Neural Machine Translation for Low-Resource Languages, 2022-Present
+  - Determined the best ways to fine-tune pre-trained multilingual sequence-to-sequence models (mBART) for translating between language pairs with less than 500k parallel data.
+  - Explored and evaluated fine-tuning approaches such as two-stage and multi-domain
+  - Assessed the impact of training corpus size, as well as the divergence between training set and test set on model performance
+
+- A Transformer Based Classification System for Volcanic Seismic Signals, [Western University DSAS](https://www.uwo.ca/stats/){:target="\_blank"}, 2021-21
   - Considered the use of the novel NLP technique self-attention for predicting volcanic event types from raw seismic signals
   - Designed a DNN architecture that enables superior signal classification compared to traditional approaches
   - Utilized different neural network layers such as convolutional, residual convolutional, and long short-term memory
@@ -40,7 +48,8 @@ redirect_from:
 # Work experience
 
 ---
-- Automation Intern, [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/){:target="\_blank"}, Sep. 2022 - Present
+- Automation Intern, [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/){:target="\_blank"}, Sep. 2022 - Jan. 2023
+  - Automated the Institute’s data collection related to AI talent initiatives using web-scraping Python libraries
 - Undergraduate Student Researcher, [Western University DSAS](https://www.uwo.ca/stats/){:target="\_blank"}, Summer 2022
 - Sales & Trading Associate (FX Data Analytics and Innovation), [TD Securities](https://www.tdsecurities.com/ca/en/home-page){:target="\_blank"}, Summer 2021
   - Developed a Python module to automatically publish Tableau Dashboards used in evaluating an FX auto-quoting algorithm; providing the business with a daily overview of client trends and a detailed analysis of trades
@@ -99,6 +108,11 @@ Service and leadership
   - MATLAB
   - Node.js
   - Java
+- Machine Learning:
+  - PyTorch
+  - TensorFlow
+  - Keras
+  - scikit-learn
 - Software
   - Microsoft Office Suite
   - Git
