@@ -67,11 +67,11 @@ redirect_from:
   - Improved the City's Annual Financial Report through analysis of key financial indicators for enhanced recognition of financial position; supported management’s goal of generating a concise, yet detailed report
   - Optimized the process of analyzing customer accounts to identify erroneous transactions and respective cause; made procedure more efficient and saved time as a result of implemented suggestions
 
-<!-- # Publications
+# Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 # Talks
 
