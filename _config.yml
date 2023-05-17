@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Anthony Rinaldi"
   avatar           : "profile.png"
-  bio              : "Computer Science Graduate Student"
+  bio              : "AI Researcher | Computer Science Graduate Student"
   location         : "Toronto, ON"
-  employer         : "University of Toronto"
+  school           : "University of Toronto" 
+  employer         : "Metabob Inc."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=a950biIAAAAJ&hl=en"
   email            : "anthony.rinaldi04@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
