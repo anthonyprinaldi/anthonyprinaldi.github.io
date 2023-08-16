@@ -15,7 +15,7 @@ redirect_from:
 
 ---
 
-- M.Sc. CS in Applied Computing, University of Toronto, 2023 (expected)
+- M.Sc. CS in Applied Computing, University of Toronto, 2023
   - GPA: 4.0/4.0
 - B.Sc. in Statistics, Western University, 2022
   - GPA: 96/100
@@ -34,7 +34,9 @@ redirect_from:
 
 ---
 
-- Neural Machine Translation for Low-Resource Languages, 2022-Present
+- Unsupervised AST Graph Compression for Codebase Bug Detection, 2023-Present
+
+- Neural Machine Translation for Low-Resource Languages, 2022-23
   - Determined the best ways to fine-tune pre-trained multilingual sequence-to-sequence models (mBART) for translating between language pairs with less than 500k parallel data.
   - Explored and evaluated fine-tuning approaches such as two-stage and multi-domain
   - Assessed the impact of training corpus size, as well as the divergence between training set and test set on model performance
@@ -48,6 +50,7 @@ redirect_from:
 # Work experience
 
 ---
+- AI Researcher, [Metabob Inc.](https://metabob.com/){:target="\_blank"}, May 2023 - Dec. 2023
 - Automation Intern, [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/){:target="\_blank"}, Sep. 2022 - Jan. 2023
   - Automated the Institute’s data collection related to AI talent initiatives using web-scraping Python libraries
 - Undergraduate Student Researcher, [Western University DSAS](https://www.uwo.ca/stats/){:target="\_blank"}, Summer 2022
