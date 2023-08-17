@@ -25,7 +25,7 @@ redirect_from:
 # Awards
 
 ---
-
+- Mitacs Accelerate Grant, 2023
 - Vector Scholarship in Artificial Intelligence Recipient, 2022-23
 - The Northern Life Assurance Gold Medal, 2022
 - Scotiabank HBA1 Award, 2019
