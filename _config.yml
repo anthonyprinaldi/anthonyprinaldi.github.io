@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anthony Rinaldi"
 title_separator          : "-"
 name                     : &name "Anthony Rinaldi"
-description              : &description "Statistics Undergraduate Student"
+description              : &description "Computer Science Master's Student"
 url                      : https://anthonyprinaldi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anthonyprinaldi/anthonyprinaldi.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter anthonyprinaldi
 facebook:
   username               :
   app_id                 :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "anthonyprinaldi"
   vine             :
   weibo            :
   xing             :
