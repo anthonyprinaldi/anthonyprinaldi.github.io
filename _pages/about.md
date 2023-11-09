@@ -15,4 +15,4 @@ I am currently a graduate student completing a Master's degree in computer scien
 
 # Research Interests
 ---
-My interests focus on artificial intelligence and creating systems that can solve problems with similar efficiency to humans. Specifically, I am interested in deep learning, reinforcement learning, natural language processing, and computer vision.
+My interests focus on general intelligence and creating systems that can think and reason in a similar capacity to humans. I am of the belief that current AI systems do not exhibit intent or meaning in their outputs, which must change to achieve *true intelligence*. I enjoy exploring the topics of cognitive science, neuroscience, and psychology. I am also interested in the intersection of machine learning and neuroscience. 
