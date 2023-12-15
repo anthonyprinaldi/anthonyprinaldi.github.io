@@ -35,6 +35,7 @@ redirect_from:
 ---
 
 - Unsupervised AST Graph Compression for Codebase Bug Detection, 2023-Present
+  - [Download here](http://anthonyprinaldi.github.io/files/MScAC_Final_Report.pdf){:target="\_blank" .btn}
 
 - Neural Machine Translation for Low-Resource Languages, 2022-23
   - Determined the best ways to fine-tune pre-trained multilingual sequence-to-sequence models (mBART) for translating between language pairs with less than 500k parallel data.
