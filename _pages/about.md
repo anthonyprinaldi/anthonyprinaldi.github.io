@@ -11,8 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ---
-I am currently a graduate student completing a Master's degree in computer science (MScAC) from the University of Toronto. I hope to earn a doctoral degree after completing my Master's degree in the Fall of 2023. 
-
+I recently completed my Master's degree in computer science (MScAC) from the University of Toronto. I am currently working as a Research Software Developer at Sunnybrook Research Institute in the Artificial Intelligence and Computational Neuroscience (AICONS) lab.
 # Research Interests
 ---
 My interests focus on general intelligence and creating systems that can think and reason in a similar capacity to humans. I am of the belief that current AI systems do not exhibit intent or meaning in their outputs, which must change to achieve *true intelligence*. I enjoy exploring the topics of cognitive science, neuroscience, and psychology. I am also interested in the intersection of machine learning and neuroscience. 

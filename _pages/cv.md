@@ -34,7 +34,9 @@ redirect_from:
 
 ---
 
-- Unsupervised AST Graph Compression for Codebase Bug Detection, 2023-Present
+- Automatic Segmentation of 3D Medical Images with a Focus on the Brain, 2023-Present
+
+- Unsupervised AST Graph Compression for Codebase Bug Detection, 2023-24
   - [Download here](http://anthonyprinaldi.github.io/files/MScAC_Final_Report.pdf){:target="\_blank" .btn}
 
 - Neural Machine Translation for Low-Resource Languages, 2022-23
@@ -51,6 +53,7 @@ redirect_from:
 # Work experience
 
 ---
+- Research Software Developer, [Sunnybrook Research Institute](https://sunnybrook.ca/research/){:target="\_blank"}, Jan. 2024 - Present
 - AI Researcher, [Metabob Inc.](https://metabob.com/){:target="\_blank"}, May 2023 - Dec. 2023
 - Automation Intern, [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/){:target="\_blank"}, Sep. 2022 - Jan. 2023
   - Automated the Institute’s data collection related to AI talent initiatives using web-scraping Python libraries
