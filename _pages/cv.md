@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- [Download PDF version here](http://anthonyprinaldi.github.io/files/Anthony_Rinaldi_CV.pdf){:target="\_blank" .btn} -->
+[Download PDF version here](http://anthonyprinaldi.github.io/files/Rinaldi_CV.pdf){:target="\_blank" .btn}
 
 # Education
 
@@ -111,7 +111,6 @@ Service and leadership
   - Python
   - R
   - SQL
-  - VBA
   - MATLAB
   - Node.js
   - Java
@@ -121,8 +120,13 @@ Service and leadership
   - Keras
   - scikit-learn
 - Software
-  - Microsoft Office Suite
   - Git
+  - Linux
+  - Docker
+  - HPC Clusters
+  - Slurm
+  - Apptainer
+  - Singularity
   - Confluence
   - Jira
   - Tableau
