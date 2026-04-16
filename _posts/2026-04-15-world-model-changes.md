@@ -8,7 +8,7 @@ tags:
   - Cognition
 ---
 
-## On a difficult problem in machine intelligence — and maybe in thought itself
+## On a difficult problem in machine intelligence — and in thought itself
 
 Imagine you are playing a video game for the first time. Coins are scattered across every level, and collecting them is how you win. You internalize this. The rule becomes invisible — the way grammar becomes invisible once you are fluent in a language. You stop thinking "I should collect coins" and simply reach for them.
 
